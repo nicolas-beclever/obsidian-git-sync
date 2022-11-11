@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "2edf59687e25200f",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb334e4c687c79b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9e391294f516dec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7610b48c423fb358",
+    "type": "split",
+    "children": [
+      {
+        "id": "c006fcef4b4ed2ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21b1c5213a41d8c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5d50ceddaa7ab58c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "132408eb4c0c0d19",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d4ffad02e8c1f437",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9bce45b5a038cde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2cb12592288d076",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e19d18c05a583eb0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8d7e262f1452c700",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1047c810cdb22ef8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e9e391294f516dec",
+  "lastOpenFiles": [
+    "CleverChallenge.DataAccess/ServiceAccess.svc/ServiceAccess.ClientInfo.md",
+    "CleverChallenge.DataAccess/Common/Cvistas.cs/CVClientes.md",
+    "Archivos por tratar.md",
+    "CleverChallenge.DataAccess/Model/ConsultaClient.cs/ConsultaClient.md",
+    "CleverChallenge.DataAccess/CleverChallenge.DataAccess.csproj.md",
+    "CleverChallenge.DataAccess/Common/CEntidades.cs/ClaseCredito.md",
+    "CleverChallenge.DataAccess/Common/CEntidades.cs/ClaseCliente.md",
+    "ClaseCliente.md",
+    "CleverChallenge.DataAccess/Common/CEntidades.cs.md",
+    "^clasecliente.md"
+  ]
+}

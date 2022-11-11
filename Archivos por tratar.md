@@ -1,0 +1,5 @@
+[CleverConciliator.DataAccess/IServiceAccess.cs](https://github.com/becleverJorge/CapacitacionBeClever/compare/master...dev_Nico#diff-cf927baafc9ed88ac4e7f0a1ad77403d51464ad7b05fbc7436dc53209b0624a9 "CleverConciliator.DataAccess/IServiceAccess.cs")
+CleverConciliator.Web/Clients/CleverChallengeConsultaClient.cs
+[CleverConciliator.Web/CleverChallenge.Web.csproj](https://github.com/becleverJorge/CapacitacionBeClever/compare/master...dev_Nico#diff-27fc0e725b15c9066fe35f4fd479de591a579e4410bb6e23a7e0690a3c7163fb "CleverConciliator.Web/CleverChallenge.Web.csproj")
+[CleverConciliator.Security/Seguridades.cs](https://github.com/becleverJorge/CapacitacionBeClever/compare/master...dev_Nico#diff-57fc3e4ca1e9b1c0fe095893deef065809c758064bf8ba0b0eac60aecde7852f "CleverConciliator.Security/Seguridades.cs")
+[CleverConciliator.Security/Common/Constantes.cs](https://github.com/becleverJorge/CapacitacionBeClever/compare/master...dev_Nico#diff-66782e273b2ed938a9bab1a63e6da0cfa9a85880142fe636461b23581678b528 "CleverConciliator.Security/Common/Constantes.cs")
