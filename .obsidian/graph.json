@@ -1,22 +1,58 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:CleverChallenge.DataAccess",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:BeClever.Mvc.Extensions",
+      "color": {
+        "a": 1,
+        "rgb": 16766474
+      }
+    },
+    {
+      "query": "path:CleverChallenge.Security",
+      "color": {
+        "a": 1,
+        "rgb": 2883328
+      }
+    },
+    {
+      "query": "path:BeClever.Helper",
+      "color": {
+        "a": 1,
+        "rgb": 2303
+      }
+    },
+    {
+      "query": "path:CleverChallenge.Web",
+      "color": {
+        "a": 1,
+        "rgb": 16711888
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": true,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.63125,
-  "lineSizeMultiplier": 3.80052083333333,
-  "collapse-forces": true,
-  "centerStrength": 0,
+  "textFadeMultiplier": -1.4,
+  "nodeSizeMultiplier": 2.42239583333333,
+  "lineSizeMultiplier": 2.1671875,
+  "collapse-forces": false,
+  "centerStrength": 0.145833333333333,
   "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.7132754626224665,
+  "linkStrength": 0.604166666666667,
+  "linkDistance": 30,
+  "scale": 0.4505081176757867,
   "close": false
 }

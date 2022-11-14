@@ -24,7 +24,6 @@ public partial class ConsultaClient : object, System.Runtime.Serialization.IExte
 			this.extensionDataField = value;
 		}
 	}
-	
 	[System.Runtime.Serialization.DataMemberAttribute()]
 	public string Ape
 	{
@@ -37,7 +36,6 @@ public partial class ConsultaClient : object, System.Runtime.Serialization.IExte
 			this.ApeField = value;
 		}
 	}
-	
 	[System.Runtime.Serialization.DataMemberAttribute()]
 	public string Dir
 	{
@@ -50,7 +48,6 @@ public partial class ConsultaClient : object, System.Runtime.Serialization.IExte
 			this.DirField = value;
 		}
 	}
-	
 	[System.Runtime.Serialization.DataMemberAttribute()]
 	public string Dni
 	{
@@ -63,7 +60,6 @@ public partial class ConsultaClient : object, System.Runtime.Serialization.IExte
 			this.DniField = value;
 		}
 	}
-	
 	[System.Runtime.Serialization.DataMemberAttribute()]
 	public int EstadoCliente
 	{
@@ -76,7 +72,6 @@ public partial class ConsultaClient : object, System.Runtime.Serialization.IExte
 			this.EstadoClienteField = value;
 		}
 	}
-	
 	[System.Runtime.Serialization.DataMemberAttribute()]
 	public System.DateTime FecNac
 	{
@@ -89,7 +84,6 @@ public partial class ConsultaClient : object, System.Runtime.Serialization.IExte
 			this.FecNacField = value;
 		}
 	}
-	
 	[System.Runtime.Serialization.DataMemberAttribute()]
 	public int IdCliente
 	{
@@ -102,7 +96,6 @@ public partial class ConsultaClient : object, System.Runtime.Serialization.IExte
 			this.IdClienteField = value;
 		}
 	}
-	
 	[System.Runtime.Serialization.DataMemberAttribute()]
 	public string Nom
 	{
@@ -115,7 +108,6 @@ public partial class ConsultaClient : object, System.Runtime.Serialization.IExte
 			this.NomField = value;
 		}
 	}
-	
 	[System.Runtime.Serialization.DataMemberAttribute()]
 	public string Tel
 	{
@@ -128,7 +120,6 @@ public partial class ConsultaClient : object, System.Runtime.Serialization.IExte
 			this.TelField = value;
 		}
 	}
-	
 	[System.Runtime.Serialization.DataMemberAttribute()]
 	public string TipDoc
 	{
@@ -142,5 +133,4 @@ public partial class ConsultaClient : object, System.Runtime.Serialization.IExte
 		}
 	}
 }
-    
 ```

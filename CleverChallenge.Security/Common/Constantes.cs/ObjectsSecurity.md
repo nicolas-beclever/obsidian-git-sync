@@ -10,8 +10,8 @@ public static class ObjectsSecurity
     }
 ```
 
-[MnuBtnCreditos]
-[SubMnuClientParametros]
-[GrillaClientParametros]
-[SubMnuCreditParametros]
-[GrillaCreditParametros]
+[[MnuBtnCreditos]]
+[[SubMnuClientParametros]]
+[[GrillaClientParametros]]
+[[SubMnuCreditParametros]]
+[[GrillaCreditParametros]]

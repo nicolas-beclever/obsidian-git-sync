@@ -97,14 +97,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "CleverChallenge.Security/Common/Constantes.cs/UrlObjectsSecurity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2e41310c16f4ec6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CleverChallenge.Security/Common/Constantes.cs/UrlObjectsSecurity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f777d786b0c04f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CleverChallenge.Security/Common/Constantes.cs/UrlObjectsSecurity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fdc1617a666ffc8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CleverChallenge.Web/ViewModel/Cliente/ClientViewModel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1975ea429c1b44b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CleverChallenge.Web/Views/Clientes/Cdat_ClientParametros.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef6c1941b906f4a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Archivos por tratar.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -170,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Archivos por tratar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Archivos por tratar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Archivos por tratar.md"
               }
             }
           }
@@ -221,17 +281,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5c002c0368fc7a10",
+  "active": "ef6c1941b906f4a7",
   "lastOpenFiles": [
+    "CleverChallenge.Web/Views/Clientes/Cgr_ClientParametros.md",
+    "CleverChallenge.Web/Views/Clientes/Untitled.md",
+    "CleverChallenge.Web/Views/Clientes/Cdat_ClientParametros.md",
+    "CleverChallenge.Security/Common/Constantes.cs/UrlObjectsSecurity.md",
+    "Creditos/Cgr_CreditParametros.md",
+    "CleverChallenge.Web/ViewModel/Cliente/ClientViewModel.md",
+    "CleverChallenge.Web/Controllers/ClientesController.md",
     "CleverChallenge.Web/Common/Model/ClientModel.md",
-    "CleverChallenge.Web/Clients/CleverChallangeConsultaClient.cs/IServiceAccess.md",
-    "CleverChallenge.Web/Clients/CleverChallangeConsultaClient.cs/ConsultaClient.md",
-    "CleverChallenge.Web/Clients/CleverChallangeConsultaClient.cs/ServiceAccessClient.md",
-    "CleverChallenge.DataAccess/ServiceAccess.svc/ServiceAccess.ClientInfo.md",
-    "CleverChallenge.DataAccess/Model/ConsultaClient.cs/ConsultaClient.md",
-    "CleverChallenge.DataAccess/IServiceAccess.cs/IServiceAccess.md",
-    "CleverChallenge.Security/Seguridades.cs/Seguridades.CargarSeguObjetosWeb.md",
-    "CleverChallenge.Security/Common/Constantes.cs/ObjectsSecurity.md",
-    "CleverChallenge.Security/Common/Constantes.cs/ObjectSecurityOrder.md"
+    "CleverChallenge.Web/Untitled.md",
+    "CleverChallenge.Security/Common/Constantes.cs/FunctionsSecurity.md"
   ]
 }

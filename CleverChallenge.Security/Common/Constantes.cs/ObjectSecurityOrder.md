@@ -5,5 +5,5 @@ public static class ObjectsSecurityOrder
 	public const int SubMnuCreditParametros = 3;
 	}
 ```
-[SubMnuClientParametros]
-[SubMnuCreditParametros]
+[[SubMnuClientParametros]]
+[[SubMnuCreditParametros]]

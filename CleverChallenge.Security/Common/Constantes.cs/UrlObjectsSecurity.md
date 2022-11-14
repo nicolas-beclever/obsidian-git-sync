@@ -5,7 +5,7 @@ public static class UrlObjectsSecurity
 	public const string MnuCreditParametrosUrl = Constantes.UrlCleverChallengeReplace + "Creditos/Cgr_CreditParametros";
 }
 ```
-["Clientes/Cgr_ClientParametros"]
-["Creditos/Cgr_CreditParametros"]
-[MnuSeguClientParametrosUrl]
-[MnuCreditParametrosUrl]
+[[Clientes/Cgr_ClientParametros]]
+[[Creditos/Cgr_CreditParametros]]
+[[MnuSeguClientParametrosUrl]]
+[[MnuCreditParametrosUrl]]
