@@ -1,7 +1,3 @@
----
-aliases: [ClientInfo]
----
-
 ```C#
 public List<ConsultaClient> ClientInfo(string Dni)
 {
@@ -32,4 +28,4 @@ public List<ConsultaClient> ClientInfo(string Dni)
 }
 ```
 
-[[ConsultaClient]] [[CVClientes]]
+[[CleverChallenge.DataAccess/Model/ConsultaClient.cs/ConsultaClient]] [[CVClientes]] [[CleverChallenge.DataAccess/IServiceAccess.cs/IServiceAccess|ClientInfo]]

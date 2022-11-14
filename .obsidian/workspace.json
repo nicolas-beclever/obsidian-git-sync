@@ -11,6 +11,90 @@
             "id": "e9e391294f516dec",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "fe425938f41630dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CleverChallenge.Security/Common/Constantes.cs/UrlObjectsSecurity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7006a86e7ff4cc49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CleverChallenge.Security/Common/Constantes.cs/ObjectsSecurity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f29021dea9d82631",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CleverChallenge.Security/Common/Constantes.cs/ObjectsSecurity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dbbd16ffa5ad3bf1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "c8af3286d3f86f57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CleverChallenge.Web/Clients/CleverChallangeConsultaClient.cs/ConsultaClient.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "662f40d9b8953bef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CleverChallenge.Web/Clients/CleverChallangeConsultaClient.cs/IServiceAccess.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "455abc0b8f269055",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "5c002c0368fc7a10",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "README.md",
@@ -19,7 +103,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -136,17 +221,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e9e391294f516dec",
+  "active": "5c002c0368fc7a10",
   "lastOpenFiles": [
+    "CleverChallenge.Web/Common/Model/ClientModel.md",
+    "CleverChallenge.Web/Clients/CleverChallangeConsultaClient.cs/IServiceAccess.md",
+    "CleverChallenge.Web/Clients/CleverChallangeConsultaClient.cs/ConsultaClient.md",
+    "CleverChallenge.Web/Clients/CleverChallangeConsultaClient.cs/ServiceAccessClient.md",
     "CleverChallenge.DataAccess/ServiceAccess.svc/ServiceAccess.ClientInfo.md",
-    "CleverChallenge.DataAccess/Common/Cvistas.cs/CVClientes.md",
-    "Archivos por tratar.md",
     "CleverChallenge.DataAccess/Model/ConsultaClient.cs/ConsultaClient.md",
-    "CleverChallenge.DataAccess/CleverChallenge.DataAccess.csproj.md",
-    "CleverChallenge.DataAccess/Common/CEntidades.cs/ClaseCredito.md",
-    "CleverChallenge.DataAccess/Common/CEntidades.cs/ClaseCliente.md",
-    "ClaseCliente.md",
-    "CleverChallenge.DataAccess/Common/CEntidades.cs.md",
-    "^clasecliente.md"
+    "CleverChallenge.DataAccess/IServiceAccess.cs/IServiceAccess.md",
+    "CleverChallenge.Security/Seguridades.cs/Seguridades.CargarSeguObjetosWeb.md",
+    "CleverChallenge.Security/Common/Constantes.cs/ObjectsSecurity.md",
+    "CleverChallenge.Security/Common/Constantes.cs/ObjectSecurityOrder.md"
   ]
 }
