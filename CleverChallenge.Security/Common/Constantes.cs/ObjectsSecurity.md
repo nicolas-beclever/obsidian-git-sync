@@ -7,6 +7,7 @@ public static class ObjectsSecurity
 
         public const string SubMnuCreditParametros = "SubMnuCreditParametros";
         public const string GrillaCreditParametros = "GrillaCreditParametros";
+        public const string SubMnuSeguPreguntas = "SubMnuSeguPreguntas";
     }
 ```
 
@@ -15,3 +16,4 @@ public static class ObjectsSecurity
 [[GrillaClientParametros]]
 [[SubMnuCreditParametros]]
 [[GrillaCreditParametros]]
+[[SubMnuSeguPreguntas]]
